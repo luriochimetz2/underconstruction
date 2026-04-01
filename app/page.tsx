@@ -24,7 +24,7 @@ export default function Home() {
           transition={{ delay: 0.2 }}
         >
           <p className="text-sm text-orange-500 font-medium mb-2 tracking-wide">
-            MyPortfolio
+            MyPortfolio LURIO
           </p>
 
           <h1 className="text-3xl md:text-4xl font-bold mb-4">
